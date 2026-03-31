@@ -19,6 +19,7 @@ As a strech goal I tried to implement the Debounced Autocomplete Search function
 I used AI tools for the UI fixing part because I built the basic Flutter App by myself but to beautify it, I used AI.
 
 I also used AI tools to get the help of how I can implement the debounced autocomplete search.
+
 Yes, the AI was hallucinating sometimes and to fix it I try to give better detailed prompts.
 
 Demo Video: 
