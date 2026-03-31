@@ -1,5 +1,5 @@
 To run the project :
-1. Clone the repository:git clone
+1. Clone the repository: git clone https://github.com/Nits-007/flodo_assgn.git
 2. To start backend:
      1. cd flodo_assgn/backend
      2. python -m venv venv
